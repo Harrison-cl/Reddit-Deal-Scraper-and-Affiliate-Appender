@@ -11,7 +11,8 @@ I built this as a stepping stone for a bigger project, showcasing how you can:
 
 ## How to use
 
-1. Clone the Repository: ```bash
+1. Clone the Repository:
+   ```bash
    git clone [https://github.com/Harrison-cl/Reddit-Deal-Scraper-and-Affiliate-Appender.git](https://github.com/Harrison-cl/Reddit-Deal-Scraper-and-Affiliate-Appender.git)
     cd your-repo-name
    ```
