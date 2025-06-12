@@ -14,7 +14,7 @@ I built this as a stepping stone for a bigger project, showcasing how you can:
 1. Clone the Repository:
    ```bash
    git clone [https://github.com/Harrison-cl/Reddit-Deal-Scraper-and-Affiliate-Appender.git](https://github.com/Harrison-cl/Reddit-Deal-Scraper-and-Affiliate-Appender.git)
-    cd your-repo-name
+    cd Reddit-Deal-Scraper-and-Affiliate-Appender
    ```
    
 3. Add your affiliate tag: Open reddit-scraper-node-version.js. Find the line links.push(url.split('?')[0] + '?tag=yourtag-20'); and replace it with your actual Amazon tag.
