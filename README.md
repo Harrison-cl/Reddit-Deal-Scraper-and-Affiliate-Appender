@@ -12,15 +12,17 @@ I built this as a stepping stone for a bigger project, showcasing how you can:
 ## How to use
 
 1. Clone the Repository: ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone [https://github.com/Harrison-cl/Reddit-Deal-Scraper-and-Affiliate-Appender.git](https://github.com/Harrison-cl/Reddit-Deal-Scraper-and-Affiliate-Appender.git)
     cd your-repo-name
    ```
    
 3. Add your affiliate tag: Open reddit-scraper-node-version.js. Find the line links.push(url.split('?')[0] + '?tag=yourtag-20'); and replace it with your actual Amazon tag.
 
-4. Run the script: node reddit-scraper-node-version.js
-
-5. it prints the results to console.
+4. Run the script:
+   ```bash
+   node reddit-scraper-node-version.js
+   ```
+6. it prints the results to console.
 
 
 ## Important Note
