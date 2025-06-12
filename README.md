@@ -17,12 +17,14 @@ I built this as a stepping stone for a bigger project, showcasing how you can:
     cd Reddit-Deal-Scraper-and-Affiliate-Appender
    ```
    
-3. Add your affiliate tag: Open reddit-scraper-node-version.js. Find the line links.push(url.split('?')[0] + '?tag=yourtag-20'); and replace it with your actual Amazon tag.
+3. Add affiliate tag:
+   Open reddit-scraper-node-version.js. Find the line links.push(url.split('?')[0] + '?tag=yourtag-20'); and replace it with an actual Amazon affiliate tag.
 
-4. Run the script:
+5. Run the script:
    ```bash
    node reddit-scraper-node-version.js
    ```
+   
 6. it prints the results to console.
 
 
